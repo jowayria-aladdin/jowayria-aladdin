@@ -6,7 +6,7 @@
 ✍🏻 Currently Interning at Cortex Innovations (https://www.cortex-innovations.com/)</br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jowayria Alaa eldin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Jowayria Alaa eldin](http://linkedin.com/in/jowayria-alaa-eldin-709ab6267)) 
 
 
 # 💻 Tech Stack:
